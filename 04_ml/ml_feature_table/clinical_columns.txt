@@ -1,0 +1,6 @@
+clinical__age
+clinical__sex
+clinical__bmi
+clinical__age_was_missing
+clinical__sex_was_missing
+clinical__bmi_was_missing

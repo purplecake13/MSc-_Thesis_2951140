@@ -1,0 +1,36 @@
+{
+  "built_at": "2026-09-14T10:15:27.966920",
+  "source_files": {
+    "conqur": "/rds/projects/e/elhamsak-pd-thesis/cross_platform/conqur_corrected_table.tsv",
+    "metadata": "/rds/projects/e/elhamsak-pd-thesis/cross_platform/master_metadata.csv",
+    "sig_genera_pd": "/rds/projects/e/elhamsak-pd-thesis/cross_platform/differential_abundance/pd_specific_genera.csv",
+    "sig_genera_ad": "/rds/projects/e/elhamsak-pd-thesis/cross_platform/differential_abundance/ad_specific_genera.csv",
+    "pd_pathway": "/rds/projects/e/elhamsak-pd-thesis/pd_humann3_merged/pd_pathabundance_cpm.tsv",
+    "ad_pathway": "/rds/projects/e/elhamsak-ad-thesis/ad_picrust2_merged/ad_pathabundance_cpm.tsv"
+  },
+  "n_samples": 1822,
+  "n_all_taxa": 284,
+  "n_significant_taxa": 43,
+  "n_clinical_features": 6,
+  "n_pathway_features": 459,
+  "n_shared_pathways_across_platforms": 161,
+  "disease_group_counts": {
+    "HC": 755,
+    "PD": 751,
+    "AD": 316
+  },
+  "normalisation": {
+    "method": "CLR (centered log-ratio)",
+    "pseudocount": 0.5,
+    "applied_to": [
+      "taxa (post-ConQuR)",
+      "pathways (post-CPM-normalisation)"
+    ],
+    "applied_separately_per_block": true,
+    "note": "Row-wise transform applied directly to count/CPM scale."
+  },
+  "samples_excluded_broken_pathway_merge": [
+    "boktor2023_tbc_PD.9",
+    "boktor2023_rumc_PC.66"
+  ]
+}
