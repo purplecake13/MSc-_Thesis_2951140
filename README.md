@@ -57,10 +57,6 @@ Intermediate large files (`.qza`/`.qzv`/`.biom`, MetaPhlAn/HUMAnN3 outputs) are 
 - R: ConQuR, MMUPHin, ANCOM-BC2, MaAsLin2, ComplexHeatmap.
 - Python (local): scikit-learn, SHAP, pandas — see `environment/environment.yml`.
 
-## Limitations
-
-See the thesis Discussion/Limitations section for the full treatment. In brief: mixed-platform design (no shotgun-shotgun AD comparison possible), cross-sectional data, potential medication confounding, and the inherent assumptions of batch-correction methods across sequencing platforms.
-
 ## Contact
 
 Questions about this code can be directed to aishwarya13p@gmail.com or raised as a GitHub issue on this repository.
