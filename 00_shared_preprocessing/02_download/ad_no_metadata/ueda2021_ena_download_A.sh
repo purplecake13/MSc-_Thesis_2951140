@@ -1,0 +1,14 @@
+wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR130/028/SRR13083028/SRR13083028_1.fastq.gz
+wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR130/065/SRR13083065/SRR13083065_1.fastq.gz
+wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR130/053/SRR13083053/SRR13083053_1.fastq.gz
+wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR130/029/SRR13083029/SRR13083029_1.fastq.gz
+wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR130/032/SRR13083032/SRR13083032_1.fastq.gz
+wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR130/029/SRR13083029/SRR13083029_2.fastq.gz
+wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR130/032/SRR13083032/SRR13083032_2.fastq.gz
+wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR130/030/SRR13083030/SRR13083030_1.fastq.gz
+wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR130/028/SRR13083028/SRR13083028_2.fastq.gz
+wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR130/064/SRR13083064/SRR13083064_2.fastq.gz
+wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR130/030/SRR13083030/SRR13083030_2.fastq.gz
+wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR130/064/SRR13083064/SRR13083064_1.fastq.gz
+wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR130/053/SRR13083053/SRR13083053_2.fastq.gz
+wget -nc ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR130/065/SRR13083065/SRR13083065_2.fastq.gz
