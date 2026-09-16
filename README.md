@@ -24,7 +24,6 @@ This repository contains the full processing and analysis pipeline used to inves
 
 metadata/                      master_metadata.csv, all_metadata.xlsx, per-study sample lists
 
-environment/                   environment.yml (conda env export)
 ```
 
 ### Naming convention
