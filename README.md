@@ -18,8 +18,7 @@ This repository contains the full processing and analysis pipeline used to inves
 01_ad_16s_pipeline/          ad_* — QIIME2 import, DADA2, region-matched SILVA 138.2 taxonomy assignment, genus collapse, PICRUSt2
 02_pd_shotgun_pipeline/      pd_* — host removal, MetaPhlAn4, HUMAnN3, genus-level table construction
 03_cross_platform_analysis/  cx_* — metadata joining, platform merge, batch correction, diversity, ANCOM-BC2, MaAsLin2, Cytoscape network export
-
-ml/                          Machine learning (run locally, not on HPC)
+04_ml/                          Machine learning (run locally, not on HPC)
   final/                       Two-model architecture that produced the thesis's reported numbers
   earlier_iterations/          Superseded three-class-classifier approach, kept for provenance
 
